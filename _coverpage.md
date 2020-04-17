@@ -6,5 +6,5 @@
 
 观自在菩萨/行深般若波罗蜜多时/照见五蕴皆空/渡一切苦厄
 
-[GitHub](https://github.com/jackson0714/PassJava-Learning)
+[GitHub](https://github.com/suiyidade/learngit)
 [Get Started](README.md)
